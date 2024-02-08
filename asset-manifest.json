@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shee-Bakery/static/css/main.a21aa3d5.css",
+    "main.js": "/Shee-Bakery/static/js/main.f28ebc49.js",
+    "static/media/sheefood.PNG": "/Shee-Bakery/static/media/sheefood.06a7d07948941aae68c2.PNG",
+    "index.html": "/Shee-Bakery/index.html",
+    "main.a21aa3d5.css.map": "/Shee-Bakery/static/css/main.a21aa3d5.css.map",
+    "main.f28ebc49.js.map": "/Shee-Bakery/static/js/main.f28ebc49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21aa3d5.css",
+    "static/js/main.f28ebc49.js"
+  ]
+}
